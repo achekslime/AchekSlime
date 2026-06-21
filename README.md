@@ -1,4 +1,4 @@
-## <!-- Back-end Developer <br/> <br/> -->  HSE Computer Science graduated
+## <!-- Back-end Developer <br/> <br/> -->  HSE Computer Science
 
 ### Skills:
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=47C5FB)
